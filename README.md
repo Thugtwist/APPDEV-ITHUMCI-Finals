@@ -1,13 +1,10 @@
-# practice for layout design in react native
+Group 1
 
-
-
-
-
-
-# First: "npm install"
-# then: fix the database of login/signup and in homescreen
-# the codes after clicking the register, fix it
-# there is tips below the graph, just wait 4 seconds
-# be careful 
-
+Amadore III, Leoncio D.
+Aguilar, Jhob VIncent
+Cabañez, Ronald
+Cahulogan, Carlo
+Cleofe, John Lorenz
+Dingle, Ryan Laurence
+Enrico, Joshua Nathan
+Nacario, Eduard
